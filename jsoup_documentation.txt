@@ -1,2 +1,4 @@
 jsoup is used for web scraping
 we need to install to use that.
+*Web Scarping 
+*Automated Scripts 
